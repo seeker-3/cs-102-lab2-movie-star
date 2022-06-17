@@ -1,0 +1,4 @@
+Enter your first and middle names: Enter your age: Enter your street number, name, and type: 
+Your movie star name is Johnson Student.
+You will play a 15 year old.
+Your address is 49 Johnathan Lane.
